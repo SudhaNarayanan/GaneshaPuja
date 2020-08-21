@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/GaneshaPuja/static/js/main.4c81d2e6.chunk.js",
-    "main.js.map": "/GaneshaPuja/static/js/main.4c81d2e6.chunk.js.map",
+    "main.js": "/GaneshaPuja/static/js/main.bdd92dfd.chunk.js",
+    "main.js.map": "/GaneshaPuja/static/js/main.bdd92dfd.chunk.js.map",
     "runtime-main.js": "/GaneshaPuja/static/js/runtime-main.cc7d33ab.js",
     "runtime-main.js.map": "/GaneshaPuja/static/js/runtime-main.cc7d33ab.js.map",
     "static/js/2.fc2d398a.chunk.js": "/GaneshaPuja/static/js/2.fc2d398a.chunk.js",
     "static/js/2.fc2d398a.chunk.js.map": "/GaneshaPuja/static/js/2.fc2d398a.chunk.js.map",
     "index.html": "/GaneshaPuja/index.html",
-    "precache-manifest.0ba19cf348fdaa4c18fb5b121364885f.js": "/GaneshaPuja/precache-manifest.0ba19cf348fdaa4c18fb5b121364885f.js",
+    "precache-manifest.fe9703c5c827f06d72778dd63402d73c.js": "/GaneshaPuja/precache-manifest.fe9703c5c827f06d72778dd63402d73c.js",
     "service-worker.js": "/GaneshaPuja/service-worker.js",
     "static/js/2.fc2d398a.chunk.js.LICENSE.txt": "/GaneshaPuja/static/js/2.fc2d398a.chunk.js.LICENSE.txt",
     "static/media/GaneshJi.jpg": "/GaneshaPuja/static/media/GaneshJi.5f841b5d.jpg",
@@ -17,6 +17,6 @@
   "entrypoints": [
     "static/js/runtime-main.cc7d33ab.js",
     "static/js/2.fc2d398a.chunk.js",
-    "static/js/main.4c81d2e6.chunk.js"
+    "static/js/main.bdd92dfd.chunk.js"
   ]
 }
