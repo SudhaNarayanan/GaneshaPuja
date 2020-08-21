@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4869f119eecd7f1c117b9acc6cb24eed",
+    "revision": "5f53ca3e7e89afde984735572e254569",
     "url": "/GaneshaPuja/index.html"
   },
   {
-    "revision": "e32b8cdec14b26281260",
-    "url": "/GaneshaPuja/static/js/2.71addce9.chunk.js"
+    "revision": "d8e6bf179551147a0219",
+    "url": "/GaneshaPuja/static/js/2.fc2d398a.chunk.js"
   },
   {
     "revision": "6c99299aa0ccf7cd363681b2638ef8ef",
-    "url": "/GaneshaPuja/static/js/2.71addce9.chunk.js.LICENSE.txt"
+    "url": "/GaneshaPuja/static/js/2.fc2d398a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "bc92de6b0e4ef896451c",
-    "url": "/GaneshaPuja/static/js/main.09f72a48.chunk.js"
+    "revision": "6863fc80d9c399c33e2a",
+    "url": "/GaneshaPuja/static/js/main.2c90701a.chunk.js"
   },
   {
     "revision": "a100952bd05758ae9843",
