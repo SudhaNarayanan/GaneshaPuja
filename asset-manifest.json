@@ -1,20 +1,22 @@
 {
   "files": {
-    "main.js": "/GaneshaPuja/static/js/main.3c66e84b.chunk.js",
-    "main.js.map": "/GaneshaPuja/static/js/main.3c66e84b.chunk.js.map",
+    "main.js": "/GaneshaPuja/static/js/main.09f72a48.chunk.js",
+    "main.js.map": "/GaneshaPuja/static/js/main.09f72a48.chunk.js.map",
     "runtime-main.js": "/GaneshaPuja/static/js/runtime-main.cc7d33ab.js",
     "runtime-main.js.map": "/GaneshaPuja/static/js/runtime-main.cc7d33ab.js.map",
-    "static/js/2.e07c9855.chunk.js": "/GaneshaPuja/static/js/2.e07c9855.chunk.js",
-    "static/js/2.e07c9855.chunk.js.map": "/GaneshaPuja/static/js/2.e07c9855.chunk.js.map",
+    "static/js/2.71addce9.chunk.js": "/GaneshaPuja/static/js/2.71addce9.chunk.js",
+    "static/js/2.71addce9.chunk.js.map": "/GaneshaPuja/static/js/2.71addce9.chunk.js.map",
     "index.html": "/GaneshaPuja/index.html",
-    "precache-manifest.641a8fc4331ad0a987cfc44956dd6e64.js": "/GaneshaPuja/precache-manifest.641a8fc4331ad0a987cfc44956dd6e64.js",
+    "precache-manifest.03918a380ae0a252a5cb47b1e2de169b.js": "/GaneshaPuja/precache-manifest.03918a380ae0a252a5cb47b1e2de169b.js",
     "service-worker.js": "/GaneshaPuja/service-worker.js",
-    "static/js/2.e07c9855.chunk.js.LICENSE.txt": "/GaneshaPuja/static/js/2.e07c9855.chunk.js.LICENSE.txt",
-    "static/media/GaneshJi.jpg": "/GaneshaPuja/static/media/GaneshJi.5f841b5d.jpg"
+    "static/js/2.71addce9.chunk.js.LICENSE.txt": "/GaneshaPuja/static/js/2.71addce9.chunk.js.LICENSE.txt",
+    "static/media/GaneshJi.jpg": "/GaneshaPuja/static/media/GaneshJi.5f841b5d.jpg",
+    "static/media/GaneshStory.jpg": "/GaneshaPuja/static/media/GaneshStory.0dae80f7.jpg",
+    "static/media/festival.jpg": "/GaneshaPuja/static/media/festival.8abd85d1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.cc7d33ab.js",
-    "static/js/2.e07c9855.chunk.js",
-    "static/js/main.3c66e84b.chunk.js"
+    "static/js/2.71addce9.chunk.js",
+    "static/js/main.09f72a48.chunk.js"
   ]
 }

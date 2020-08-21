@@ -1,2 +1,0 @@
-(this.webpackJsonpreactapp=this.webpackJsonpreactapp||[]).push([[0],[,,,function(e,t,n){e.exports=n.p+"static/media/GaneshJi.5f841b5d.jpg"},function(e,t,n){e.exports=n(5)},function(e,t,n){"use strict";n.r(t);var a=n(0),p=n.n(a),r=n(2),c=n.n(r),i=n(3),s=n.n(i);function u(){return p.a.createElement("div",null,p.a.createElement("h1",null," Happy Ganesh Chadurthi"),p.a.createElement("img",{src:s.a}))}c.a.render(p.a.createElement(u,null),document.getElementById("app"))}],[[4,1,2]]]);
-//# sourceMappingURL=main.3c66e84b.chunk.js.map
